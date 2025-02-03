@@ -1,4 +1,4 @@
-print("Starting the script...") 
+#print("Starting the script...") Used to debug
 name = input("Please Enter your name: ")
 color = input("What is your favourite color? ")
 
