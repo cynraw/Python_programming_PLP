@@ -19,3 +19,6 @@ Write a program that accepts user input to create two sets of integers. Then, cr
 
 
 Create a program that stores a list of words. Then, use list comprehension to create a new list that contains only the words that have an odd number of characters.
+
+# File Handling and Exception handling
+File Handling in Python is the ability to perform various operations on files, like reading from and writing to them. Files are used to store data permanently
