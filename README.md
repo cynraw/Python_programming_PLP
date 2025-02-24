@@ -50,3 +50,19 @@ Modes include:
 'a': Append mode, adds new content without deleting existing data.
 
 'rb', 'wb': Binary modes for non-text files, like images.
+
+### Reading Files 📜
+
+Python provides multiple ways to read file contents:
+
+.read(): Reads the entire file.
+
+.readline(): Reads a single line at a time.
+
+.readlines(): Reads all lines and returns a list.
+
+### Writing & Appending to Files ✍️
+
+Writing is essential for saving data, like storing a user’s progress or keeping a record.
+
+write(): Overwrites content, while append() allowing adding without deleting.
