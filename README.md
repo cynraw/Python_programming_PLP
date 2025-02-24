@@ -19,3 +19,59 @@ Write a program that accepts user input to create two sets of integers. Then, cr
 
 
 Create a program that stores a list of words. Then, use list comprehension to create a new list that contains only the words that have an odd number of characters.
+
+# File Handling and Exception handling
+File Handling in Python is the ability to perform various operations on files, like reading from and writing to them. Files are used to store data permanently.
+
+File handling in Python allows you to:
+
+Open files in different modes (e.g., read-only or write mode).
+
+Read and write data in a variety of formats.
+
+Close files to free up system resources.
+
+## File Operations in Python
+### Opening Files 🔓
+Use Python’s open() function to access a file.
+
+Syntax: open(filename, mode), where:
+
+filename: The name of the file you want to work with.
+
+mode: The mode you want to open the file in.
+
+Modes include:
+
+'r': Read mode, used for reading files.
+
+'w': Write mode, creates a new file or overwrites an existing one.
+
+'a': Append mode, adds new content without deleting existing data.
+
+'rb', 'wb': Binary modes for non-text files, like images.
+
+### Reading Files 📜
+
+Python provides multiple ways to read file contents:
+
+.read(): Reads the entire file.
+
+.readline(): Reads a single line at a time.
+
+.readlines(): Reads all lines and returns a list.
+
+### Writing & Appending to Files ✍️
+
+Writing is essential for saving data, like storing a user’s progress or keeping a record.
+
+write(): Overwrites content, while append() allowing adding without deleting.
+
+## Exception Handling
+Basic Structure of try-except Blocks ⚙️
+
+try: Runs code that might throw an error.
+
+except: Catches the error, allowing you to respond without crashing.
+
+finally: Runs no matter what, often used to clean up (like closing a file).
