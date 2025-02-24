@@ -73,3 +73,5 @@ Basic Structure of try-except Blocks ⚙️
 try: Runs code that might throw an error.
 
 except: Catches the error, allowing you to respond without crashing.
+
+finally: Runs no matter what, often used to clean up (like closing a file).
