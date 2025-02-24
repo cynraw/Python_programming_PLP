@@ -75,3 +75,9 @@ try: Runs code that might throw an error.
 except: Catches the error, allowing you to respond without crashing.
 
 finally: Runs no matter what, often used to clean up (like closing a file).
+
+## Best Practices 📏
+- Use with for file handling: Auto-close files, preventing potential leaks.
+- Check file existence before reading/writing, to avoid crashes.
+- Handle specific exceptions over general ones (e.g., FileNotFoundError instead of Exception).
+- Document error messages clearly for easier debugging and user support.
