@@ -24,6 +24,7 @@ Create a program that stores a list of words. Then, use list comprehension to cr
 File Handling in Python is the ability to perform various operations on files, like reading from and writing to them. Files are used to store data permanently.
 
 File handling in Python allows you to:
+
 Open files in different modes (e.g., read-only or write mode).
 
 Read and write data in a variety of formats.
@@ -33,11 +34,19 @@ Close files to free up system resources.
 ## File Operations in Python
 ### Opening Files 🔓
 Use Python’s open() function to access a file.
+
 Syntax: open(filename, mode), where:
+
 filename: The name of the file you want to work with.
+
 mode: The mode you want to open the file in.
+
 Modes include:
+
 'r': Read mode, used for reading files.
+
 'w': Write mode, creates a new file or overwrites an existing one.
+
 'a': Append mode, adds new content without deleting existing data.
+
 'rb', 'wb': Binary modes for non-text files, like images.
