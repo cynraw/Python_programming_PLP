@@ -66,3 +66,10 @@ Python provides multiple ways to read file contents:
 Writing is essential for saving data, like storing a user’s progress or keeping a record.
 
 write(): Overwrites content, while append() allowing adding without deleting.
+
+## Exception Handling
+Basic Structure of try-except Blocks ⚙️
+
+try: Runs code that might throw an error.
+
+except: Catches the error, allowing you to respond without crashing.
