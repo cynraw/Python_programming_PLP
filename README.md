@@ -108,3 +108,4 @@ It refers to the bundling of data (attributes) and methods within a class. Encap
 
 You can achieve encapsulation in Python by defining private attributes and methods within a class. By convention, private attributes and methods are prefixed with a single underscore (_). While Python does not have strict private modifiers like some other languages, the underscore prefix serves as a warning to other developers not to access or modify the attributes and methods directly from outside the class.
 
+Accessing private attributes through getter methods (or properties) is a best practice in OOP because it promotes encapsulation, ensures data integrity, and provides flexibility and maintainability in your code. It also allows you to add additional logic, such as validation or computation, when accessing or modifying attributes.
