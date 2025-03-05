@@ -98,3 +98,13 @@ Is a blueprint that is used to create objects.
 
 To define a class, you have to use the class keyword, provided by Python, then followed by the name of the class and a colon:
 
+## Class and Instance Attributes
+While class attributes are common to all instances created from your class, instance attributes are unique to each instance.
+
+Class attributes are variables that belong to the class itself, rather than to individual instances of the class. The effect of class attributes is that all instances you create from your class will inherit and share that class attribute and its value. 
+
+## Encapsulation in Python
+It refers to the bundling of data (attributes) and methods within a class. Encapsulation provides data protection and control over how the code interacts with an object's internal state.
+
+You can achieve encapsulation in Python by defining private attributes and methods within a class. By convention, private attributes and methods are prefixed with a single underscore (_). While Python does not have strict private modifiers like some other languages, the underscore prefix serves as a warning to other developers not to access or modify the attributes and methods directly from outside the class.
+
