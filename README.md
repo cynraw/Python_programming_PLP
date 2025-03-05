@@ -83,3 +83,18 @@ finally: Runs no matter what, often used to clean up (like closing a file).
 - Document error messages clearly for easier debugging and user support.
 
 ## Introduction to OOP
+Object-oriented programming (OOP) is a style of programming that heavily relies on objects. 
+
+These objects can have attributes and methods. While attributes store data, methods define behavior.
+
+Object-oriented programming (OOP) offers several benefits when organizing and managing code. By grouping related data and functions into logical classes, OOP promotes code structure and simplifies maintenance, especially as programs grow in size and complexity. The modular approach makes it easier to understand, modify, and reuse code, thereby reducing development time.
+
+Another benefit of OOP is its ability to provide a clear and relatable programming style, which can be more helpful for developers. The use of objects and the relationships between them mirror real-world concepts. This makes it easier to reason about code and design complex systems.
+
+Finally, OOP's concepts such as encapsulation and inheritance, contribute to code robustness by promoting data protection and code reusability.
+
+### What is a Class in Python?
+Is a blueprint that is used to create objects.
+
+To define a class, you have to use the class keyword, provided by Python, then followed by the name of the class and a colon:
+
