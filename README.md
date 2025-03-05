@@ -81,3 +81,5 @@ finally: Runs no matter what, often used to clean up (like closing a file).
 - Check file existence before reading/writing, to avoid crashes.
 - Handle specific exceptions over general ones (e.g., FileNotFoundError instead of Exception).
 - Document error messages clearly for easier debugging and user support.
+
+## Introduction to OOP
