@@ -12,4 +12,7 @@
 
 ##  File Handling and Serialization
 - json - Working with json data.
-- 
+- csv – Handling CSV Files
+
+## Random Number Generation
+- random – Generating Random Numbers
