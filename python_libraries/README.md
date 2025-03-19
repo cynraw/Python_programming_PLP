@@ -10,3 +10,6 @@
 - OS - Interacting with Operating System
 - sys - System specific functions
 
+##  File Handling and Serialization
+- json - Working with json data.
+- 
