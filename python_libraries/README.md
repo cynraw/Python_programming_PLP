@@ -16,3 +16,10 @@
 
 ## Random Number Generation
 - random – Generating Random Numbers
+
+# Popular Third-Party Libraries (Require Installation)
+## Data Science and Analysis
+- numpy - Numerical calculations
+- pandas - data manipulation
+- matplotlib - data visualization
+- 
