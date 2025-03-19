@@ -22,4 +22,20 @@
 - numpy - Numerical calculations
 - pandas - data manipulation
 - matplotlib - data visualization
-- 
+
+
+## Machine Learning & AI
+- scikit-learn – Machine Learning
+- tensorflow / pytorch – Deep Learning
+
+## Web Development
+- Flask – Lightweight Web Framework
+- requests – HTTP Requests
+
+## Automation & Web Scraping
+- beautifulsoup4 – Web Scraping
+- selenium – Automating Web Browsers
+
+## Cybersecurity & Cryptography
+- hashlib – Hashing Passwords
+- cryptography – Encryption
