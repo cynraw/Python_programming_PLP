@@ -118,3 +118,8 @@ Together, they ensure encapsulation, data integrity, and flexibility in your cod
 It allows classes to inherit attributes and methods from other classes. The new class inherits attributes and methods from the existing class, known as the parent or base class. The new class is called the child or derived class.
 
 Inheritance promotes code reuse by allowing the child class to inherit and extend the functionality of the parent class. This helps in creating hierarchical relationships between classes and organizing code in a more structured and logical manner.
+
+# Python Libraries
+- A Python library is a collection of reusable code that simplifies programming tasks. Libraries provide pre-written functions and modules for tasks such as data analysis, web development, machine learning, automation, and more.
+- Any Python source file is a module.
+- An import statement loads and executes a module.
