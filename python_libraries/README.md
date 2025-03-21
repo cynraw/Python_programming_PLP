@@ -7,7 +7,7 @@
 - Python comes with several built-in libraries that don’t require installation.
 
 ## OS and System Management
-- OS -Interacting with Operating System
+- OS-Interacting with Operating System
 - sys-System specific functions
 
 ##  File Handling and Serialization
