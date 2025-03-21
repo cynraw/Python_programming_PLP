@@ -26,7 +26,7 @@
 
 ## Machine Learning & AI
 - scikit-learn – Machine Learning
-- tensorflow / pytorch – Deep Learning
+- tensorflow/ pytorch – Deep Learning
 
 ## Web Development
 - Flask – Lightweight Web Framework
