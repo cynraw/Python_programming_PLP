@@ -9,4 +9,5 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 print(df[df['Age'] > 30]) # filter rows with age > 30
-pd.drop('Cities', axis = 1, inplace = 'True')
+df_filtered = df[(df['Age'] > 30) & (df['City'] == 'New York')] # Get rows where Age is greater than 30 and City is 'New York'
+pd.drop('Cities', axis = 1, inplace = 'True') #Drops the Cities column
